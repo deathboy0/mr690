@@ -231,7 +231,7 @@ function create_config( )
     "setrank",
     "id",
     "tagall",
-    "SUDO",
+    "SUDO",{186589007}=sudo_users
     "feedback",
     "getplug",
     "echo",
